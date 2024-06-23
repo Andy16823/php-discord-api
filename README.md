@@ -1,5 +1,5 @@
 # php-discord-api
- Simple discord api libary
+php-discord-api is a simple class for communicating with the discord api in php. 
 
 ## Example code
 ```php
