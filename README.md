@@ -2,7 +2,7 @@
  Simple discord api libary
 
 ## Example code
-'''php
+```php
 <?php
 // Include the discord class into your script
 include_once "php-discord-api/discord.php";
@@ -40,4 +40,4 @@ if (isset($_GET['code'])) {
 <?php else: ?>
     <?php echo "hello " . $userInfo['username']; ?>
 <?php endif; ?>
-'''
+```
